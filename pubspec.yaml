@@ -1,0 +1,23 @@
+name: add_two_numbers
+description: A simple Flutter package to add two numbers.
+version: 0.0.1
+homepage: https://github.com/dhirendrakumarucr/add_two_numbers
+repository: https://github.com/dhirendrakumarucr/add_two_numbers
+issue_tracker: https://github.com/dhirendrakumarucr/add_two_numbers/issues
+publish_to: "none" # remove this line if you want to publish to pub.dev
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0  # recommended for static analysis
+
+flutter:
+# no assets or fonts for now, can be added later
