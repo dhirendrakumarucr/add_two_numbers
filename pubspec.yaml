@@ -1,6 +1,6 @@
 name: add_two_numbers
 description: A simple Flutter package to add two numbers.
-version: 0.0.1
+version: 0.1.01
 homepage: https://github.com/dhirendrakumarucr/add_two_numbers
 repository: https://github.com/dhirendrakumarucr/add_two_numbers
 issue_tracker: https://github.com/dhirendrakumarucr/add_two_numbers/issues
