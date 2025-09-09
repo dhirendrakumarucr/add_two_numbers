@@ -1,4 +1,4 @@
-library add_two_numbers;
+library add_two_numbers_dk;
 
 /// A simple calculator package.
 class AddCalculator {

@@ -1,5 +1,5 @@
+import 'package:add_two_numbers_dk/add_two_numbers.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:add_two_numbers/add_two_numbers.dart';
 
 void main() {
   test('Add two numbers', () {
